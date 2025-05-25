@@ -79,7 +79,7 @@ http://localhost:8501
 
 Here’s what the chatbot UI looks like:
 
-![UI Preview](ui-preview.png)
+![UI Preview](ai-agent-chatbot.png)
 
 ---
 
